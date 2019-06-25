@@ -2,6 +2,8 @@
 /**
  * GameConfiguration defines global game options and configuration settings.
  *
+ * test git
+ * 
  * @author (your name)
  * @version (a version number or a date)
  */
