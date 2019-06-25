@@ -1,3 +1,5 @@
+package EdisonStarTrek;
+
 
 /**
  * A Location is a Quadrant/Sector pairing

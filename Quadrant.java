@@ -1,3 +1,5 @@
+package EdisonStarTrek;
+
 import java.lang.StringBuilder;
 
 /**

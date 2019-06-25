@@ -1,4 +1,4 @@
-
+package EdisonStarTrek;
 /**
  * A Sector contains game pieces.
  * Only a single game piece may occupy a given sector

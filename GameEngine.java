@@ -1,3 +1,5 @@
+package EdisonStarTrek;
+
 
 /**
  * GameEngine coordinates the playing of the game.

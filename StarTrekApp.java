@@ -1,3 +1,5 @@
+package EdisonStarTrek;
+
 
 /**
  * StarTrekApp is the main entry point to the console application.

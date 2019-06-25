@@ -1,3 +1,5 @@
+package EdisonStarTrek;
+
 
 /**
  * These source files are proprietary & copyrighted (Edison School)

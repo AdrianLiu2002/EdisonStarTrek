@@ -1,4 +1,4 @@
-
+package EdisonStarTrek;
 /**
  * A GamePiece represents an object in the game
  * and the content of a sector.

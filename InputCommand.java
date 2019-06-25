@@ -1,3 +1,6 @@
+package EdisonStarTrek;
+
+
 import java.util.Scanner;
 
 /**

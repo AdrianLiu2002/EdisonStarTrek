@@ -1,3 +1,5 @@
+package EdisonStarTrek;
+
 
 /**
  * GameConfiguration defines global game options and configuration settings.

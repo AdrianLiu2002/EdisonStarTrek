@@ -1,3 +1,5 @@
+package EdisonStarTrek;
+
 
 /**
  * Write a description of class Enterprise here.

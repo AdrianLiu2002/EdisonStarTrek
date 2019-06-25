@@ -1,3 +1,5 @@
+package EdisonStarTrek;
+
 
 /**
  * Game Utilities store reuseable common functions not associated
