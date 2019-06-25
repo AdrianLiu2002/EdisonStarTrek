@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GameUtilities
+comment0.text=\r\n\ Game\ Utilities\ store\ reuseable\ common\ functions\ not\ associated\r\n\ with\ a\ specific\ class.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ about()
+comment1.text=\r\n\ prints\ the\ game\ version\r\n
+comment2.params=
+comment2.target=java.lang.String\ gameVersion()
+comment3.params=
+comment3.target=GamePiece\ getRandomGamePiece()
+comment4.params=radix
+comment4.target=int\ randomValue(int)
+comment5.params=
+comment5.target=int\ randomSector()
+comment6.params=
+comment6.target=int\ randomQuadrant()
+numComments=7

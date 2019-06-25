@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GamePiece
+comment0.text=\r\n\ A\ GamePiece\ represents\ an\ object\ in\ the\ game\r\n\ and\ the\ content\ of\ a\ sector.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=item
+comment1.target=GamePiece(java.lang.String)
+comment1.text=\r\n\ all\ game\ pieces\ are\ pre-defined\r\n\ all\ references\ are\ shared\r\n\ all\ representations\ are\ exactly\ 3\ characters\ long.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

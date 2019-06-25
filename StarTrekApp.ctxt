@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=StarTrekApp
+comment0.text=\r\n\ StarTrekApp\ is\ the\ main\ entry\ point\ to\ the\ console\ application.\r\n\r\n\ @author\ Owen,\ Matthew,\ Connor,\ Adrian,\ Mr\ Bradley\r\n\ @version\ v0.99\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ This\ is\ the\ main\ entry\ point\ for\ the\ Star\ Trek\ game\r\n\ It's\ purpose\ is\ to\ launch\ the\ application\ and\ transfer\r\n\ control\ to\ the\ Game\ Engine,\ which\ is\ responsible\ for\ managing\ \r\n\ the\ game\ state.\r\n
+numComments=2

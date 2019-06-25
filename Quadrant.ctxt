@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Quadrant
+comment0.text=\r\n\ A\ Quadrant\ is\ the\ main\ display\ area\ for\ the\ game\ and\r\n\ consists\ of\ a\ grid\ of\ Sectors\ that\ hold\ game\ pieces.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Quadrant()
+comment2.params=
+comment2.target=void\ populate()
+comment3.params=sector
+comment3.target=Sector\ get(Coordinate)
+comment3.text=\r\n\ Whenever\ we\ use\ a\ Location\ this\ is\ the\ UI\ 1-based\ representation\r\n\ the\ x\ &\ y\ values\ need\ to\ be\ reduced\ by\ 1\r\n\ \r\n\ This\ forms\ the\ UI/Data\ interface\ contract\ for\ mapping\ locations\ \r\n\ \r\n\ @return\ Sector\ at\ the\ specified\ location\r\n
+comment4.params=
+comment4.target=void\ display()
+comment4.text=\r\n\ build\ and\ display\ the\ quadrant\ table\r\n
+comment5.params=
+comment5.target=java.lang.String[]\ buildDisplayTable()
+comment6.params=
+comment6.target=java.lang.String\ HEADER()
+comment7.params=
+comment7.target=java.lang.String\ SEPARATOR()
+comment8.params=n
+comment8.target=java.lang.String\ SPACES(int)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

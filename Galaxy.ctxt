@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Galaxy
+comment0.text=\r\n\ A\ Galaxy\ represents\ the\ game\ universe.\r\n\ \r\n\ It\ will\ always\ maintain\ the\ following\ information\:\r\n\ \r\n\ \ StarDate\r\n\ \ Enterprise\ &\ its\ location\r\n\ \ A\ list\ of\ enemies\ (Klingons,\ etc)\r\n\ \ A\ list\ of\ Starbases\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Galaxy()
+comment2.params=
+comment2.target=void\ populate()
+comment2.text=\r\n\ populate\ the\ galaxy\r\n
+comment3.params=
+comment3.target=Location\ getEnterprise()
+comment3.text=\r\n\ returns\ the\ quadrant\ location\ of\ the\ starship\ Enterprise\r\n
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GameEngine
+comment0.text=\r\n\ GameEngine\ coordinates\ the\ playing\ of\ the\ game.\r\n\r\n\ @author\ Owen,\ Matthew,\ Connor,\ Adrian,\ Mr\ Bradley\r\n\ @version\ 0.99\r\n
+comment1.params=
+comment1.target=GameEngine()
+comment1.text=\r\n\ TBD\r\n
+comment2.params=
+comment2.target=void\ play()
+comment2.text=\r\n\ manages\ the\ play\ cycle\ of\ the\ game\:\ win,\ loss,\ termination\r\n
+comment3.params=
+comment3.target=Galaxy\ galaxy()
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Location
+comment0.text=\r\n\ A\ Location\ is\ a\ Quadrant/Sector\ pairing\r\n\ A\ Location\ is\ immutable\r\n\r\n\ @author\ Mr\ Bradley\r\n\ @version\ v0.99\r\n
+comment1.params=quadrant\ sector
+comment1.target=Location(Coordinate,\ Coordinate)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=Location\ getRandomLocation()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
