@@ -53,6 +53,7 @@ public class Coordinate
         System.out.println("Coordinate test");
         Coordinate sector = Coordinate.getRandomLocation();
         System.out.println( sector );
+        //System.out.println();
         
     }
 
