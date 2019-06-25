@@ -2,6 +2,8 @@
 /**
  * These source files are proprietary & copyrighted (Edison School)
  * 
+ * test git
+ *
  * A Coordinate is an immutable object storing a location in space.
  * right now this is any number 1-8 for quadrants and sectors
  * 
