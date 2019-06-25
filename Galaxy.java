@@ -6,6 +6,8 @@ import java.util.ArrayList;
  * 
  * It will always maintain the following information:
  * 
+ * test git
+ * 
  *  StarDate
  *  Enterprise & its location
  *  A list of enemies (Klingons, etc)
